@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"yahmeju"
+	],
+	"copyright": "Copyright © 2019, yahmeju",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "imperio_de_zyihno_playermaker",
+	"dependencies": {
+		"gtk-d": "~>3.9.0"
+	}
+}

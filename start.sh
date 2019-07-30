@@ -1,0 +1,4 @@
+dub build
+cp imperio_de_zyihno_playermaker compiled/imperio_de_zyihno
+rm imperio_de_zyihno_playermaker
+./compiled/imperio_de_zyihno
